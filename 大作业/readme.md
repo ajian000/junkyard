@@ -1,5 +1,5 @@
 # 模拟惠斯通电桥<br>
-[项目地址](https://github.com/ajian000/junkyard/tree/main/%E5%A4%A7%E4%BD%9C%E4%B8%9A)<br>
+
 <br>
 ## 项目简介<br>
 **该项目是河北某大学自动化三班某小组的C语言结课作业**<br>
@@ -17,3 +17,8 @@
 ·增加了手动调整r0的功能<br>
 ·重写了部分逻辑<br>
 ·将灵敏电流计换成了电压表<br>
+### 0.0.0<br>
+·原始版本<br>
+<br>
+## 相关链接<br>
+[项目地址](https://github.com/ajian000/junkyard/tree/main/%E5%A4%A7%E4%BD%9C%E4%B8%9A)<br>
